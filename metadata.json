@@ -1,0 +1,7 @@
+{
+  "name": "TuneScape",
+  "description": "Professional audio focus engine with BPM matching, frequency analysis, and AI session planning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
